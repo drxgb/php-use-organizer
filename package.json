@@ -2,11 +2,16 @@
   "name": "php-use-organizer",
   "displayName": "PHP Use Organizer",
   "description": "Sort uses in PHP files easily",
+  "publisher": "drxgb",
+  "icon": "images/icon.png",
   "author": {
     "name": "Dr.XGB",
     "url": "https://drxgb.com"
   },
-  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/drxgb/php-use-organizer.git"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.92.0"
   },
